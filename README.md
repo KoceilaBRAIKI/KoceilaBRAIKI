@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Koceila%20BRAIKI&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Systèmes%20•%20Réseaux%20•%20Compilation%20•%20Full-Stack&descAlignY=60&descSize=17&descColor=c9d1ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Koceila%20BRAIKI&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=C%20%7C%20Python%20%7C%20Java%20%7C%20Haskell%20%7C%20Réseaux%20%7C%20Compilation%20%7C%20Web&descAlignY=60&descSize=16&descColor=c9d1ff&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=7B8CDE&center=true&vCenter=true&width=750&lines=Étudiant+L3+Informatique+—+Gustave+Eiffel+%7C+IGM;Réseaux+%2F+Sécurité+%2F+Systèmes+%2F+Compilation+%2F+Web;En+recherche+d'alternance+—+Septembre+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=7B8CDE&center=true&vCenter=true&width=800&lines=Étudiant+L3+Informatique+—+Gustave+Eiffel+%7C+IGM;C+%7C+Python+%7C+Java+%7C+Haskell+%7C+LaTeX;Réseaux+%2F+Systèmes+%2F+Compilation+%2F+Web+Full-Stack;En+recherche+d'alternance+—+Septembre+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,18 +18,14 @@
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 👤 À propos
 
 Étudiant en **L3 Informatique** à l'Université Gustave Eiffel — Institut Gaspard Monge.
-Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'au web full-stack, en passant par la compilation et la théorie des algorithmes.
+Je code en **C, Python, Java et Haskell**, je conçois des bases de données relationnelles, je construis des applications web full-stack, et je m'intéresse autant aux protocoles réseau qu'à la théorie de la compilation.
 
 🎯 **Objectif :** Alternance informatique — Septembre 2026 + Master
 
 ---
-
-<br clear="right"/>
 
 ## 🛠️ Compétences Techniques
 
@@ -42,9 +38,11 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM%20Assembleur-6E4C13?style=for-the-badge&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-Assembleur-6E4C13?style=for-the-badge)
 
 </div>
+
+> **C** : programmation système, gestion mémoire, pointeurs · **Java** : POO avancée, héritage, design patterns · **Python** : scripting, Flask, algorithmique · **Haskell** : programmation fonctionnelle, structures non mutables · **LaTeX** : rédaction technique et scientifique
 
 ---
 
@@ -54,12 +52,11 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol%20Stack-0052CC?style=for-the-badge)
 ![OSI](https://img.shields.io/badge/Modèle%20OSI-7%20Couches-1A73E8?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Analyse%20Trafic-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![LAN](https://img.shields.io/badge/Architecture%20Réseau-LAN%20%2F%20Internet-34A853?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
 
-> Maîtrise complète de la pile TCP/IP et du modèle OSI (toutes les couches) · Analyse de trafic avancée avec Wireshark · Architecture et protocoles de transport · Diagnostics réseau
+> Maîtrise complète de la pile TCP/IP et du modèle OSI · Analyse de trafic avancée avec Wireshark · Architecture des réseaux locaux et d'Internet · Protocoles de transport et routage
 
 ---
 
@@ -69,11 +66,10 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
 
 ![Linux](https://img.shields.io/badge/UNIX%20%2F%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OS](https://img.shields.io/badge/Architecture%20OS-Processus%20%7C%20Mémoire-607D8B?style=for-the-badge)
-![C Sys](https://img.shields.io/badge/C%20Système-Pointeurs%20%7C%20Mémoire-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 </div>
 
-> Gestion fine de la mémoire, pointeurs, ré-entrance, appels système · Architecture OS : processus, mémoire virtuelle, systèmes de fichiers · Prévention des fuites mémoire
+> Gestion fine de la mémoire, ré-entrance, appels système · Architecture OS : processus, mémoire virtuelle, systèmes de fichiers
 
 ---
 
@@ -101,7 +97,7 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
 
 </div>
 
-> Modélisation relationnelle · PL/pgSQL, triggers, procédures stockées · Transactions & concurrence · Indexation et optimisation des requêtes
+> Modélisation relationnelle avancée · PL/pgSQL, triggers, procédures stockées · Transactions & concurrence · Indexation et optimisation des requêtes
 
 ---
 
@@ -114,11 +110,10 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 </div>
 
-> Architecture 3 tiers avec Flask et psycopg · Web avancé avec Angular · Serveur Apache · PHP, HTML, CSS
+> Architecture 3 tiers avec Flask et psycopg · Web avancé avec Angular · PHP, HTML, CSS
 
 ---
 
@@ -133,11 +128,11 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
 
 </div>
 
-> Hachage · Parcours d'arbres · Algorithmes de tri avec analyse de complexité · Dijkstra, flots maximums, arbres couvrants
+> Hachage · Arbres de Huffman, binaires · Tris avec analyse de complexité · Dijkstra, flots maximums, arbres couvrants minimaux
 
 ---
 
-### 🔨 Outils & Environnement
+### 🔨 Outils
 
 <div align="center">
 
@@ -155,7 +150,7 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Magasin en Ligne — Full-Stack</h3>
-      <img src="https://img.shields.io/badge/Python-Flask-000000?style=flat-square&logo=flask" />
+      <img src="https://img.shields.io/badge/Python-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br/><br/>
       Application e-commerce complète en architecture <b>3 tiers</b>. Gestion des utilisateurs, catalogue produits, commandes. Requêtes SQL optimisées avec <code>psycopg</code>.
@@ -165,7 +160,7 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
       <img src="https://img.shields.io/badge/C-Flex-E34F26?style=flat-square" />
       <img src="https://img.shields.io/badge/Bison-NASM-6E4C13?style=flat-square" />
       <br/><br/>
-      Chaîne de compilation <b>from scratch</b> : analyse lexicale, syntaxique, AST, génération de code NASM. Reproduction d'un compilateur réel.
+      Chaîne de compilation <b>from scratch</b> : analyse lexicale, syntaxique, AST, génération de code NASM.
     </td>
   </tr>
   <tr>
@@ -173,13 +168,15 @@ Polyvalent et rigoureux, je couvre un large spectre : des couches réseau jusqu'
       <h3>🗜️ Compresseur d'Images</h3>
       <img src="https://img.shields.io/badge/C-Algorithmique-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       <br/><br/>
-      Compression par arbre de <b>Huffman</b> en C pur. Optimisation mémoire, gestion manuelle des allocations, analyse de complexité.
+      Compression par arbre de <b>Huffman</b> en C pur. Gestion manuelle de la mémoire et analyse de complexité.
     </td>
     <td width="50%" valign="top">
       <h3>🎮 Trilogie de Jeux</h3>
-      <img src="https://img.shields.io/badge/C-Python-Java-ED8B00?style=flat-square" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <br/><br/>
-      Trois jeux, trois paradigmes : <b>C</b> (bas niveau), <b>Python</b> (scripting), <b>Java POO</b> (héritage, polymorphisme, design patterns).
+      Trois jeux, trois paradigmes : <b>C</b> (système), <b>Python</b> (scripting), <b>Java</b> (POO complète).
     </td>
   </tr>
 </table>
