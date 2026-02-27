@@ -19,7 +19,6 @@
 ---
 
 <br/>
-<img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=KoceilaBRAIKI&theme=tokyonight&hide_border=true&background=0d0d1a&ring=8b8bcc&fire=8b8bcc&currStreakLabel=c9d1d9"/>
 
 ### 👋 Bonjour !
 
