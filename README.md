@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Koceila%20BRAIKI&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=C%20%7C%20Python%20%7C%20Java%20%7C%20Haskell%20%7C%20Réseaux%20%7C%20Compilation%20%7C%20Web&descAlignY=60&descSize=16&descColor=c9d1ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:1a1f2e&height=200&section=header&text=Koceila%20BRAIKI&fontSize=60&fontColor=e6edf3&fontAlignY=38&desc=Étudiant%20L3%20Informatique%20—%20IGM%20Gustave%20Eiffel%20%7C%20En%20recherche%20d'alternance%20septembre%202026&descAlignY=60&descSize=14&descColor=8b949e&animation=fadeIn" />
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=7B8CDE&center=true&vCenter=true&width=800&lines=Étudiant+L3+Informatique+—+Gustave+Eiffel+%7C+IGM;C+%7C+Python+%7C+Java+%7C+Haskell+%7C+LaTeX;Réseaux+%2F+Systèmes+%2F+Compilation+%2F+Web+Full-Stack;En+recherche+d'alternance+—+Septembre+2026)](https://git.io/typing-svg)
-
-<br/>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Koceila%20BRAIKI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-braiki)
 [![Email](https://img.shields.io/badge/Email-braiki.koceila%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:braiki.koceila@outlook.fr)
@@ -14,221 +12,152 @@
 
 </div>
 
-<br/>
+---
+
+## À propos de moi
+
+Étudiant en **L3 Informatique** à l'Université Gustave Eiffel — Institut Gaspard Monge, je conçois et développe des logiciels couvrant un large spectre : **systèmes bas niveau en C**, **applications web full-stack**, **outils de compilation**, **jeux** et **algorithmes de compression**.
+
+Mon parcours m'a conduit à maîtriser autant la gestion manuelle de la mémoire que les architectures web modernes — toujours avec un souci de code propre, documenté et fonctionnel.
+
+> 🎯 **Objectif :** Alternance informatique — Septembre 2026 · Poursuite en Master
 
 ---
 
-## 👤 À propos
+## Projets phares
 
-Étudiant en **L3 Informatique** à l'Université Gustave Eiffel — Institut Gaspard Monge.
-Je code en **C, Python, Java et Haskell**, je conçois des bases de données relationnelles, je construis des applications web full-stack, et je m'intéresse autant aux protocoles réseau qu'à la théorie de la compilation.
+### 🔬 TPC Syntactic Analyzer — Compilateur C (Flex & Bison)
+> *L3 Informatique — 2025-2026*
 
-🎯 **Objectif :** Alternance informatique — Septembre 2026 + Master
+**[`tpas-C-Flex-Bison-`](https://github.com/KoceilaBRAIKI/tpas-C-Flex-Bison-)** — Analyseur syntaxique complet pour un sous-ensemble du langage C.
+
+- Grammaire **stratifiée à 7 niveaux** pour respecter les priorités d'opérateurs
+- Construction et affichage d'un **Arbre Syntaxique Abstrait (ASA)**
+- **Localisation précise des erreurs** : ligne + colonne via `YY_USER_ACTION`
+- Récursivité gauche pour l'accès aux champs `struct` (`a.b.c`)
+- Zéro fuite mémoire — libération complète via `deleteTree`
+
+`C` `Flex` `Bison` `Make` `AST` `Compilation`
 
 ---
 
-## 🛠️ Compétences Techniques
+### 🗜️ CoDec DIF — Codec de compression d'images
+> *Projet système — Licence Informatique*
 
-### 💻 Langages de programmation
+**[`codec-dif`](https://github.com/KoceilaBRAIKI/codec-dif)** — Système de compression/décompression d'images développé from scratch en C, format propriétaire `.dif`.
+
+- **Codage différentiel** : stockage des deltas inter-pixels pour réduire l'entropie
+- **Encodage entropique à préfixes variables** sur 4 niveaux (2 à 11 bits)
+- Compression **sans perte** (lossless), fidèle au pixel près
+- Résultat : **~47% de réduction** sur images PGM réelles
+- Architecture bibliothèque `.so` séparée de l'exécutable CLI
+
+`C` `Algorithmique` `Compression` `BitStream` `Makefile` `UNIX`
+
+---
+
+### 🛒 TrouveCompo — Application web full-stack
+> *Projet académique — 2024*
+
+**[`KoceilaBRAIKI`](https://github.com/KoceilaBRAIKI)** — Plateforme de gestion de composants électroniques avec gestion multi-rôles.
+
+- Architecture **3 tiers** : Flask + PostgreSQL + Jinja2
+- 3 espaces distincts : **Client**, **Employé**, **Gérant**
+- Recherche multicritères, gestion de stock, facturation
+- Requêtes SQL optimisées avec `psycopg`
+
+`Python` `Flask` `PostgreSQL` `Jinja2` `HTML/CSS`
+
+---
+
+### 🎒 BackpackHero — Jeu RPG tactique en Java
+> *L3 Informatique — 2025-2026*
+
+**[`backpack-hero-java`](https://github.com/KoceilaBRAIKI/backpack-hero-java)** — RPG au tour par tour avec gestion d'inventaire en grille (inspiré de Backpack Hero).
+
+- **Placement spatial des objets** : formes L, T, Z, + avec rotation
+- **Synergies** entre objets adjacents modifiant les effets en combat
+- Architecture **MVC** complète : `model/`, `view/`, `controller/`, `data/`
+- 3 héros, 3 étages, système d'économie, progression XP
+- Malédictions non-rectangulaires écrasant dynamiquement l'inventaire
+
+`Java` `Zen 6.0` `POO` `MVC` `Apache Ant`
+
+---
+
+### 🎮 Stellar Assault — Space Shooter 2D
+> *L2 Informatique — 2024*
+
+**[`stellar-assault-Python-Pygame-`](https://github.com/KoceilaBRAIKI/stellar-assault-Python-Pygame-)** — Jeu de tir spatial 100% procédural, aucun asset externe.
+
+- **Système de particules** complet : explosions, sillage moteur, étincelles
+- **Effets de glow** additifs `BLEND_ADD` — rendu néon sans GPU
+- 4 types d'ennemis dont un Boss toutes les 5 vagues
+- **Combo x1–x8** avec fenêtre temporelle, Power-Ups aléatoires
+- 1173 lignes · 15 classes · FSM à 3 états
+
+`Python` `Pygame` `POO` `Architecture` `Procédural`
+
+---
+
+### ⚔️ Darkest Dungeon — RPG en C
+> *L2 Informatique — 2024-2025*
+
+**[`darkest-dungeon-c`](https://github.com/KoceilaBRAIKI/darkest-dungeon-c)** — Jeu de rôle tactique au tour par tour en ligne de commande.
+
+- **Listes chaînées dynamiques** pour personnages, ennemis et accessoires
+- Mécaniques : stress, HP, équipements, boutique, soins (queue FIFO)
+- **Sauvegarde et chargement** complets via fichier texte
+- Gestion mémoire manuelle sans fuite
+
+`C` `Listes chaînées` `Queue FIFO` `Gestion mémoire` `Fichiers`
+
+---
+
+## Compétences techniques
+
+### Langages
+
+| Langage | Niveau | Usage principal |
+|---------|--------|----------------|
+| **C** | ★★★★★ | Système, mémoire, compilation, algorithmes |
+| **Java** | ★★★★☆ | POO avancée, design patterns, GUI |
+| **Python** | ★★★★☆ | Web (Flask), scripting, jeux (Pygame) |
+| **Haskell** | ★★★☆☆ | Programmation fonctionnelle |
+| **SQL / PL-pgSQL** | ★★★★☆ | Modélisation, triggers, transactions |
+| **HTML / CSS** | ★★★☆☆ | Interfaces web |
+| **NASM** | ★★★☆☆ | Génération de code assembleur |
+
+### Domaines
+
+**Compilation** — Chaîne complète : Flex (lexical) → Bison (syntaxique) → AST → NASM  
+**Systèmes** — Gestion mémoire, processus, appels système, UNIX/Linux  
+**Bases de données** — PostgreSQL, MySQL, modélisation relationnelle, optimisation  
+**Réseaux** — Pile TCP/IP, modèle OSI, Wireshark  
+**Web** — Flask, Angular, PHP  
+**Algorithmique** — Graphes (Dijkstra, flots), arbres (Huffman), tris, hachage
+
+---
+
+## Formation
+
+🎓 **L3 Informatique** — Université Gustave Eiffel, Institut Gaspard Monge *(2025-2026)*  
+🎓 **L2 Informatique** — Université Gustave Eiffel *(2024-2025)*
+
+---
+
+## Me contacter
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM-Assembleur-6E4C13?style=for-the-badge)
-
-</div>
-
-> **C** : programmation système, gestion mémoire, pointeurs · **Java** : POO avancée, héritage, design patterns · **Python** : scripting, Flask, algorithmique · **Haskell** : programmation fonctionnelle, structures non mutables · **LaTeX** : rédaction technique et scientifique
-
----
-
-### 🔒 Réseaux & Sécurité
-
-<div align="center">
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol%20Stack-0052CC?style=for-the-badge)
-![OSI](https://img.shields.io/badge/Modèle%20OSI-7%20Couches-1A73E8?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-
-> Maîtrise complète de la pile TCP/IP et du modèle OSI · Analyse de trafic avancée avec Wireshark · Architecture des réseaux locaux et d'Internet · Protocoles de transport et routage
-
----
-
-### ⚙️ Ingénierie Système
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/UNIX%20%2F%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OS](https://img.shields.io/badge/Architecture%20OS-Processus%20%7C%20Mémoire-607D8B?style=for-the-badge)
-
-</div>
-
-> Gestion fine de la mémoire, ré-entrance, appels système · Architecture OS : processus, mémoire virtuelle, systèmes de fichiers
-
----
-
-### 🔧 Compilation & Assembleur
-
-<div align="center">
-
-![Flex](https://img.shields.io/badge/Flex-Analyse%20Lexicale-E34F26?style=for-the-badge)
-![Bison](https://img.shields.io/badge/Bison-Analyse%20Syntaxique-007ACC?style=for-the-badge)
-![NASM](https://img.shields.io/badge/NASM-Génération%20Code-6E4C13?style=for-the-badge)
-
-</div>
-
-> Chaîne de compilation complète · Analyse lexicale (Flex) · Analyse syntaxique & AST (Bison) · Génération de code machine NASM
-
----
-
-### 🗄️ Bases de Données
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-Triggers%20%7C%20Transactions-336791?style=for-the-badge)
-
-</div>
-
-> Modélisation relationnelle avancée · PL/pgSQL, triggers, procédures stockées · Transactions & concurrence · Indexation et optimisation des requêtes
-
----
-
-### 🌐 Web & Back-End
-
-<div align="center">
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-> Architecture 3 tiers avec Flask et psycopg · Web avancé avec Angular · PHP, HTML, CSS
-
----
-
-### 📐 Algorithmique
-
-<div align="center">
-
-![Graphs](https://img.shields.io/badge/Graphes-Dijkstra%20%7C%20Flots%20%7C%20ACM-8E24AA?style=for-the-badge)
-![Trees](https://img.shields.io/badge/Arbres-Huffman%20%7C%20Binaires-00897B?style=for-the-badge)
-![Sorting](https://img.shields.io/badge/Tris-Rapide%20%7C%20Fusion-F4511E?style=for-the-badge)
-![Haskell FP](https://img.shields.io/badge/Fonctionnel-Haskell%20%7C%20Récursivité-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-
-</div>
-
-> Hachage · Arbres de Huffman, binaires · Tris avec analyse de complexité · Dijkstra, flots maximums, arbres couvrants minimaux
-
----
-
-### 🔨 Outils
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Projets
-
-<table>
-
-  <tr>
-
-    <td width="50%" valign="top">
-
-      <h3>🛒 Magasin en Ligne — Full-Stack</h3>
-
-      <img src="https://img.shields.io/badge/Python-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-      <br/><br/>
-
-      Application e-commerce complète en architecture <b>3 tiers</b>. Gestion des utilisateurs, catalogue produits, commandes. Requêtes SQL optimisées avec <code>psycopg</code>.
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3>⚙️ Compilateur & Assembleur</h3>
-
-      <img src="https://img.shields.io/badge/C-Flex-E34F26?style=flat-square" />
-
-      <img src="https://img.shields.io/badge/Bison-NASM-6E4C13?style=flat-square" />
-
-      <br/><br/>
-
-      Chaîne de compilation <b>from scratch</b> : analyse lexicale, syntaxique, AST, génération de code NASM.
-
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td width="50%" valign="top">
-
-      <h3>🗜️ Compresseur d'Images</h3>
-
-      <img src="https://img.shields.io/badge/C-Algorithmique-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-
-      <br/><br/>
-
-      Compression par arbre de <b>Huffman</b> en C pur. Gestion manuelle de la mémoire et analyse de complexité.
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3><a href="https://github.com/KoceilaBRAIKI/stellar-assault" style="color: inherit; text-decoration: none;">🎮 Trilogie de Jeux (Stellar Assault)</a></h3>
-
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-
-      <br/><br/>
-
-      Trois jeux, trois paradigmes : <b>C</b> (système), <b>Python</b> (scripting), <b>Java</b> (POO complète).
-
-    </td>
-
-  </tr>
-
-</table>
----
-
-## 📬 Me contacter
-
-<div align="center">
-
-| 📧 Email | 💼 LinkedIn | 🐙 GitHub | 🎓 Université |
-|----------|-------------|-----------|---------------|
-| [braiki.koceila@outlook.fr](mailto:braiki.koceila@outlook.fr) | [koceila-braiki](https://www.linkedin.com/in/koceila-braiki) | [KoceilaBRAIKI](https://github.com/KoceilaBRAIKI) | [Gustave Eiffel — IGM](https://igm.univ-gustave-eiffel.fr) |
+| 📧 Email | 💼 LinkedIn | 🐙 GitHub |
+|----------|-------------|-----------|
+| [braiki.koceila@outlook.fr](mailto:braiki.koceila@outlook.fr) | [koceila-braiki](https://www.linkedin.com/in/koceila-braiki) | [KoceilaBRAIKI](https://github.com/KoceilaBRAIKI) |
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KoceilaBRAIKI&color=7B8CDE&style=for-the-badge&label=Visites+du+profil" />
+<img src="https://komarev.com/ghpvc/?username=KoceilaBRAIKI&color=58a6ff&style=for-the-badge&label=Visites+du+profil" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,50:161b22,100:0a0a0f&height=100&section=footer" />
