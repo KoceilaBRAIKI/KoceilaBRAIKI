@@ -1,344 +1,387 @@
+<!--
+██████╗ ██████╗  █████╗ ██╗██╗  ██╗██╗
+██╔══██╗██╔══██╗██╔══██╗██║██║ ██╔╝██║
+██████╔╝██████╔╝███████║██║█████╔╝ ██║
+██╔══██╗██╔══██╗██╔══██║██║██╔═██╗ ██║
+██████╔╝██║  ██║██║  ██║██║██║  ██╗██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝
+Koceila BRAIKI — GitHub Profile README
+-->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Koceila%20BRAIKI&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Étudiant%20L3%20Informatique%20·%20IGM%20Gustave%20Eiffel%20·%20Paris&descSize=16&descColor=a8b3cf&descAlignY=58&animation=twinkling" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=280&section=header&text=KOCEILA%20BRAIKI&fontSize=64&fontColor=e2e8f0&fontAlignY=42&desc=Étudiant%20en%20Informatique%20·%20IGM%20Gustave%20Eiffel%20·%20Paris&descSize=17&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
 </div>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🎯  En recherche d'alternance · Informatique · Sept. 2026   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Koceila%20BRAIKI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-braiki)&nbsp;
-[![Email](https://img.shields.io/badge/braiki.koceila%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:braiki.koceila@outlook.fr)&nbsp;
-[![GitHub](https://img.shields.io/badge/KoceilaBRAIKI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoceilaBRAIKI)&nbsp;
-[![Université](https://img.shields.io/badge/IGM-Gustave%20Eiffel-00A86B?style=for-the-badge&logo=academia&logoColor=white)](https://igm.univ-gustave-eiffel.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-braiki)
+[![Gmail](https://img.shields.io/badge/braiki.koceila%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:braiki.koceila@outlook.fr)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoceilaBRAIKI)
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-## `whoami`
-
-```python
-class KoceilaBRAIKI:
-    def __init__(self):
-        self.formation  = "L3 Informatique — Institut Gaspard Monge, Université Gustave Eiffel"
-        self.localité   = "Paris 🇫🇷"
-        self.objectif   = "Alternance informatique · Septembre 2026 → Master"
-        self.langages   = ["C", "Python", "Java", "Haskell", "SQL", "NASM", "LaTeX"]
-        self.domaines   = ["Compilation", "Systèmes", "Web Full-Stack", "Algorithmique", "Réseaux"]
-        self.contact    = "braiki.koceila@outlook.fr"
-
-    def en_deux_mots(self) -> str:
-        return """
-        Je construis des logiciels du bas niveau au web : gestion mémoire en C,
-        chaîne de compilation complète, applications full-stack avec PostgreSQL,
-        jeux en Java et Python. Curieux des fondamentaux, attentif à la qualité du code.
-        """
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🎯  Alternance recherchée · Informatique · Septembre 2026         │
+│   🎓  L3 Informatique · Institut Gaspard Monge · Gustave Eiffel     │
+│   📍  Paris, France                                                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
-
-## 🗂️ Projets
-
-> Six projets couvrant **compilation**, **algorithmique**, **web**, **systèmes** et **jeu vidéo** — trois langages, trois paradigmes.
 
 <br/>
 
-### ⚙️ Compilateur TPC — Chaîne complète Flex · Bison · AST
-> `C` &nbsp;`Flex` &nbsp;`Bison` &nbsp;`Make` &nbsp;`L3 · 2025-2026`
+## 🧑‍💻 &nbsp;À propos
 
-**Analyseur syntaxique complet** pour un sous-ensemble du langage C, développé from scratch.
+Je suis étudiant en **L3 Informatique** à l'IGM (Université Gustave Eiffel), avec une formation couvrant un spectre large : de la **programmation système en C** jusqu'au **développement web full-stack**, en passant par la **théorie de la compilation** et les **algorithmes avancés**.
 
-| Fonctionnalité | Détail technique |
-|---|---|
-| 📐 Grammaire stratifiée | 7 niveaux de non-terminaux (`Exp → TB → FB → M → E → T → F`) pour respecter les priorités et associativités |
-| 🌳 ASA complet | `makeNode` / `makeNodeVal` avec `strdup` — affichage graphique `--tree` |
-| 🎯 Erreurs précises | Macro `YY_USER_ACTION` + `current_column` → localisation ligne **et** colonne |
-| 🔁 Récursivité gauche | Accès `struct` chainés (`a.b.c`) sans ambiguïté |
-| 🧹 Zéro fuite mémoire | `deleteTree` libère intégralement chaque nœud alloué |
+Ce qui me passionne : comprendre comment les choses fonctionnent vraiment — écrire un codec de compression from scratch, construire un compilateur couche par couche, ou architecturer une application web multi-rôles proprement. Je cherche une alternance à partir de **septembre 2026** pour préparer un **Master en Informatique**.
 
-```bash
-./bin/tpcas --tree < programme.tpc   # Affiche l'ASA complet
-./bin/tpcas < programme.tpc          # Retourne 0 si valide, 1 sinon
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-tpas--C--Flex--Bison-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/tpas-C-Flex-Bison-)
+<br/>
 
 ---
 
-### 🗜️ CoDec DIF — Codec de compression d'images lossless
-> `C` &nbsp;`Algorithmique` &nbsp;`BitStream` &nbsp;`UNIX` &nbsp;`Licence Informatique`
+## 🛠️ &nbsp;Compétences techniques
 
-**Format propriétaire `.dif`** combinant codage différentiel et encodage entropique à longueur variable.
+<br/>
 
-| Étape | Technique |
-|---|---|
-| 1 · Transformation | Codage différentiel pixel-à-pixel + fonction de repliement dans `[0, 255]` |
-| 2 · Encodage | 4 niveaux de préfixes : de **2 bits** (valeur 0-1) à **11 bits** (valeur 22-277) |
-| 3 · Décompression | Décodage inverse bit à bit, reconstruction fidèle au pixel |
-| 4 · Architecture | Bibliothèque partagée `libdif.so` + exécutable CLI découplés |
-
-```
-Entrée  : photo.pgm  →  786 448 octets
-Sortie  : photo.dif  →  412 031 octets
-Gain    : ████████████████████░░░░░░░░░░  47.61%
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-codec--dif-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/codec-dif)
-
----
-
-### 🛒 TrouveCompo — Application web Full-Stack
-> `Python` &nbsp;`Flask` &nbsp;`PostgreSQL` &nbsp;`Jinja2` &nbsp;`2024`
-
-**Plateforme e-commerce** de composants électroniques avec gestion multi-rôles complète.
-
-```
-Architecture 3 tiers
-┌─────────────┐    psycopg    ┌──────────────┐
-│  Flask +    │ ────────────► │  PostgreSQL  │
-│  Jinja2     │               │  Base de     │
-│  (Back+View)│ ◄──────────── │  données     │
-└─────────────┘               └──────────────┘
-       │
-       ▼
-  3 espaces distincts :
-  👤 Client  →  Recherche, projets, factures
-  🔧 Employé →  Gestion stock, création factures
-  📊 Gérant  →  Dashboard, CRUD composants, reporting
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-TrouveCompo-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/KoceilaBRAIKI)
-
----
-
-### 🎒 BackpackHero — RPG Tactique Java
-> `Java` &nbsp;`Zen 6.0` &nbsp;`MVC` &nbsp;`Apache Ant` &nbsp;`L3 · 2025-2026`
-
-**RPG au tour par tour** centré sur la gestion d'inventaire en grille, architecture MVC complète.
-
-| Système | Implémentation |
-|---|---|
-| 🎮 Inventaire en grille | Objets aux formes non-rectangulaires (L, T, Z, +), rotation, placement dynamique |
-| ⚡ Synergies | Effets modifiés selon l'adjacence des objets dans le sac |
-| 👹 Malédictions | Formes complexes écrasant les objets sous-jacents |
-| 🏗️ Architecture | `model/` · `view/` · `controller/` · `data/` — séparation stricte des responsabilités |
-| 🌍 Exploration | 3 étages, 5 types de salles, progression XP, économie or |
-
-[![Repo](https://img.shields.io/badge/GitHub-backpack--hero--java-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/backpack-hero-java)
-
----
-
-### 🚀 Stellar Assault — Space Shooter 2D
-> `Python` &nbsp;`Pygame` &nbsp;`POO` &nbsp;`L2 · 2024`
-
-**Jeu de tir spatial 100% procédural** — aucun asset externe, tout généré à l'exécution.
-
-```
-Architecture FSM
-   ┌─────────┐   START   ┌──────────┐   GAME OVER   ┌──────────┐
-   │  menu   │ ─────────►│ playing  │───────────────►│ gameover │
-   └─────────┘           └──────────┘                └──────────┘
-                              │                           │
-                              └───────────────────────────┘
-                                         RESTART
-
-15 classes · 1173 lignes · Glow BLEND_ADD · Particules · Screen-shake
-Boss toutes les 5 vagues · Combo x1–x8 · Power-ups aléatoires (15%)
-```
-
-[![Repo](https://img.shields.io/badge/GitHub-stellar--assault-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/stellar-assault-Python-Pygame-)
-
----
-
-### ⚔️ Darkest Dungeon — RPG en C
-> `C` &nbsp;`Listes chaînées` &nbsp;`Queue FIFO` &nbsp;`L2 · 2024-2025`
-
-**RPG tactique en ligne de commande**, inspiré de Darkest Dungeon, entièrement en C.
-
-- **Listes chaînées dynamiques** pour personnages, ennemis et accessoires
-- **Queue FIFO** pour Sanitarium (HP) et Taverne (stress)
-- 4 classes : Furie, Vestale, Chasseur de primes, Maître chien
-- 10 ennemis de difficulté croissante, récompenses aléatoires
-- **Sauvegarde / chargement** complet de l'état via fichier texte
-- Gestion mémoire manuelle — zéro fuite
-
-[![Repo](https://img.shields.io/badge/GitHub-darkest--dungeon--c-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/darkest-dungeon-c)
-
----
-
-## 🛠️ Stack Technique
-
-### 💻 Langages
+### Langages de programmation
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20PL--pgSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM-Assembleur-6E4C13?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+| Langage | Maîtrise | Projets associés |
+|:-------:|:--------:|:---------------:|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ⭐⭐⭐⭐⭐ | Compilateur TPC · CoDec DIF · Darkest Dungeon |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐⭐ | TrouveCompo · Stellar Assault |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | BackpackHero |
+| ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) | ⭐⭐⭐ | Programmation fonctionnelle |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ⭐⭐⭐⭐ | TrouveCompo |
+| ![NASM](https://img.shields.io/badge/NASM-6E4C13?style=flat-square) | ⭐⭐⭐ | Génération de code machine |
+| ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) | ⭐⭐⭐ | Rédaction technique |
 
 </div>
 
-> **C** — programmation système, gestion mémoire manuelle, pointeurs, structures complexes
-> **Java** — POO avancée, héritage, interfaces, design patterns, GUI (Zen)
-> **Python** — scripting, web backend (Flask), jeux (Pygame), algorithmique
-> **Haskell** — programmation fonctionnelle pure, récursivité, structures immuables
-> **NASM** — génération de code assembleur x86, registres, pile d'appel
+<br/>
 
----
-
-### 🔧 Compilation & Bas Niveau
-
-<div align="center">
-
-![Flex](https://img.shields.io/badge/Flex-Analyse%20Lexicale-E34F26?style=for-the-badge)
-![Bison](https://img.shields.io/badge/Bison-Analyse%20Syntaxique-007ACC?style=for-the-badge)
-![AST](https://img.shields.io/badge/AST-Arbre%20Syntaxique-8E24AA?style=for-the-badge)
-![NASM](https://img.shields.io/badge/NASM-Génération%20Code-6E4C13?style=for-the-badge)
-
-</div>
-
-> Chaîne complète : **Flex** (lexical) → **Bison** (syntaxique + AST) → **NASM** (génération code machine)
-
----
-
-### 🗄️ Bases de Données
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-Triggers%20%7C%20Procédures-336791?style=for-the-badge)
-
-</div>
-
-> Modélisation relationnelle · PL/pgSQL, triggers, procédures stockées · Transactions & concurrence · Optimisation des requêtes et indexation
-
----
-
-### 🌐 Web & Back-End
-
-<div align="center">
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-> Architecture 3 tiers avec Flask + psycopg · Web avancé avec Angular · PHP · HTML/CSS
-
----
-
-### 🔒 Réseaux & Systèmes
-
-<div align="center">
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Stack%20Complète-0052CC?style=for-the-badge)
-![OSI](https://img.shields.io/badge/Modèle%20OSI-7%20Couches-1A73E8?style=for-the-badge)
-![Linux](https://img.shields.io/badge/UNIX%20%2F%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-</div>
-
-> Pile TCP/IP et modèle OSI · Analyse de trafic Wireshark · Gestion de processus, mémoire virtuelle, appels système · Systèmes de fichiers
-
----
-
-### 📐 Algorithmique
-
-<div align="center">
-
-![Graphes](https://img.shields.io/badge/Graphes-Dijkstra%20%7C%20Flots%20%7C%20ACM-8E24AA?style=for-the-badge)
-![Arbres](https://img.shields.io/badge/Arbres-Huffman%20%7C%20Binaires%20%7C%20AST-00897B?style=for-the-badge)
-![Tris](https://img.shields.io/badge/Tris-Rapide%20%7C%20Fusion%20%7C%20Complexité-F4511E?style=for-the-badge)
-![Fonctionnel](https://img.shields.io/badge/Haskell-Récursivité%20%7C%20Filtrage-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-
-</div>
-
-> Hachage · Arbres de Huffman · Dijkstra, flots maximums, arbres couvrants minimaux · Analyse de complexité théorique et empirique
-
----
-
-### 🔨 Outils & Environnement
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Make](https://img.shields.io/badge/Makefile-Build%20System-427819?style=for-the-badge)
-![Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=apache&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KoceilaBRAIKI&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🎓 Formation
-
-```
-2025 – 2026   L3 Informatique · Institut Gaspard Monge · Université Gustave Eiffel
-                └─ Compilation · Systèmes · Réseaux · Bases de données · Web · POO avancée
-
-2024 – 2025   L2 Informatique · Université Gustave Eiffel
-                └─ Algorithmique · Structures de données · C · Java · Architecture machine
-```
-
----
-
-## 📬 Contact
+### Domaines de compétences
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center"><a href="mailto:braiki.koceila@outlook.fr"><img src="https://img.shields.io/badge/Email-braiki.koceila%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/koceila-braiki"><img src="https://img.shields.io/badge/LinkedIn-koceila--braiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
-<td align="center"><a href="https://github.com/KoceilaBRAIKI"><img src="https://img.shields.io/badge/GitHub-KoceilaBRAIKI-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td align="center" width="200">
+
+**🔧 Compilation**
+
+![Flex](https://img.shields.io/badge/Flex-E34F26?style=flat-square)
+![Bison](https://img.shields.io/badge/Bison-007ACC?style=flat-square)
+![NASM](https://img.shields.io/badge/NASM-6E4C13?style=flat-square)
+
+Analyse lexicale · syntaxique<br/>Construction d'ASA<br/>Génération code machine
+
+</td>
+<td align="center" width="200">
+
+**⚙️ Systèmes**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square)
+
+Gestion mémoire · Processus<br/>Appels système · Fichiers<br/>Mémoire virtuelle
+
+</td>
+<td align="center" width="200">
+
+**🌐 Web**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+Architecture 3 tiers<br/>Flask · Angular · PHP<br/>HTML · CSS
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
+**🗄️ Bases de données**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+PL/pgSQL · Triggers<br/>Transactions · Index<br/>Modélisation relationnelle
+
+</td>
+<td align="center" width="200">
+
+**🔒 Réseaux**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0052CC?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+Modèle OSI · TCP/IP<br/>Analyse de trafic<br/>Architecture réseau
+
+</td>
+<td align="center" width="200">
+
+**📐 Algorithmique**
+
+![Graphs](https://img.shields.io/badge/Graphes-8E24AA?style=flat-square)
+![Trees](https://img.shields.io/badge/Arbres-00897B?style=flat-square)
+
+Dijkstra · Flots · ACM<br/>Huffman · Tris avancés<br/>Analyse de complexité
+
+</td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=KoceilaBRAIKI&color=6e40c9&style=for-the-badge&label=Visites+du+profil" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+### Outils
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge)
+![Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=apache&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 &nbsp;Projets
+
+<br/>
+
+### ⚙️ Compilateur TPC — Flex · Bison · AST
+> **L3 Informatique · 2025-2026** &nbsp;·&nbsp; `C` `Flex` `Bison` `Make`
+
+Analyseur syntaxique complet pour un sous-ensemble du langage C, avec construction et affichage d'un Arbre Syntaxique Abstrait.
+
+```
+Source .tpc
+    │
+    ▼
+┌─────────────┐    ┌──────────────────┐    ┌────────────────────┐
+│  Analyseur  │    │   Analyseur      │    │  Arbre Syntaxique  │
+│  Lexical    │───►│   Syntaxique     │───►│  Abstrait (ASA)    │
+│  (Flex)     │    │   (Bison)        │    │  + affichage --tree│
+└─────────────┘    └──────────────────┘    └────────────────────┘
+```
+
+**Points techniques forts :**
+- Grammaire stratifiée à **7 niveaux** de non-terminaux pour les priorités d'opérateurs
+- Récursivité gauche sur les accès `struct` : `a.b.c` sans ambiguïté
+- Localisation précise des erreurs : **ligne et colonne** via `YY_USER_ACTION`
+- `makeNodeVal` avec `strdup` — libération complète dans `deleteTree`, **zéro fuite mémoire**
+
+[![Voir le repo](https://img.shields.io/badge/GitHub-tpas--C--Flex--Bison-181717?style=for-the-badge&logo=github)](https://github.com/KoceilaBRAIKI/tpas-C-Flex-Bison-)
+
+<br/>
+
+---
+
+### 🗜️ CoDec DIF — Codec de compression d'images lossless
+> **Licence Informatique** &nbsp;·&nbsp; `C` `Algorithmique` `BitStream` `UNIX`
+
+Format propriétaire `.dif` combinant codage différentiel et encodage entropique à préfixes variables.
+
+**Fonctionnement :**
+
+| Étape | Technique | Détail |
+|-------|-----------|--------|
+| 1 · Différentiel | Codage des deltas inter-pixels | Transitions douces → valeurs proches de 0 |
+| 2 · Entropique | 4 niveaux de préfixes | De **2 bits** (val 0-1) à **11 bits** (val 22-277) |
+| 3 · Décodage | Reconstruction bit à bit | Fidélité pixel parfaite (lossless) |
+| 4 · Architecture | `libdif.so` + CLI | Bibliothèque partagée découplée de l'exécutable |
+
+```
+Fichier original :  ████████████████████████████████████  786 448 o
+Fichier compressé : ████████████████████░░░░░░░░░░░░░░░░  412 031 o
+                                                     Gain : 47.61%
+```
+
+[![Voir le repo](https://img.shields.io/badge/GitHub-codec--dif-181717?style=for-the-badge&logo=github)](https://github.com/KoceilaBRAIKI/codec-dif)
+
+<br/>
+
+---
+
+### 🛒 TrouveCompo — Application web Full-Stack
+> **2024** &nbsp;·&nbsp; `Python` `Flask` `PostgreSQL` `Jinja2` `HTML/CSS`
+
+Plateforme e-commerce de composants électroniques avec gestion multi-rôles complète.
+
+**Architecture 3 tiers :**
+
+```
+┌──────────────────────────────────────────────────────┐
+│                    PRÉSENTATION                       │
+│         Jinja2 · HTML · CSS · 3 interfaces           │
+│    Client | Employé | Gérant                         │
+└─────────────────────┬────────────────────────────────┘
+                      │ HTTP
+┌─────────────────────▼────────────────────────────────┐
+│                    LOGIQUE MÉTIER                     │
+│         Flask · Routes · Authentification             │
+│         Gestion stock · Facturation · Recherche      │
+└─────────────────────┬────────────────────────────────┘
+                      │ psycopg
+┌─────────────────────▼────────────────────────────────┐
+│                    DONNÉES                            │
+│         PostgreSQL · Requêtes optimisées             │
+└──────────────────────────────────────────────────────┘
+```
+
+[![Voir le repo](https://img.shields.io/badge/GitHub-TrouveCompo-181717?style=for-the-badge&logo=github)](https://github.com/KoceilaBRAIKI/KoceilaBRAIKI)
+
+<br/>
+
+---
+
+### 🎒 BackpackHero — RPG Tactique Java
+> **L3 Informatique · 2025-2026** &nbsp;·&nbsp; `Java` `Zen 6.0` `Apache Ant`
+
+RPG au tour par tour centré sur un système d'inventaire en grille avec synergies spatiales, architecture MVC complète.
+
+**Ce qui rend ce projet complexe :**
+- Objets aux formes non-rectangulaires **(L, T, Z, +)** avec rotation et placement dynamique
+- **Synergies d'adjacence** : les effets des objets se modifient selon leur position dans le sac
+- **Malédictions** sous forme de formes complexes écrasant dynamiquement les objets sous-jacents
+- Architecture MVC stricte : `model/` · `view/` · `controller/` · `data/` — 0 couplage entre couches
+- 3 héros · 3 étages · 5 types de salles · système d'économie · progression XP
+
+[![Voir le repo](https://img.shields.io/badge/GitHub-backpack--hero--java-181717?style=for-the-badge&logo=github)](https://github.com/KoceilaBRAIKI/backpack-hero-java)
+
+<br/>
+
+---
+
+### 🚀 Stellar Assault — Space Shooter 2D
+> **L2 Informatique · 2024** &nbsp;·&nbsp; `Python` `Pygame` `POO`
+
+Jeu de tir spatial **100% procédural** — aucun asset externe, tout généré à l'exécution via Pygame.
+
+**Architecture :**
+```
+                         ┌─────────────────────┐
+                         │         Game         │
+                         │    (FSM 3 états)     │
+                         └──────────┬──────────┘
+              ┌───────────┬─────────┴──────────────────┐
+              ▼           ▼                             ▼
+        ParticleSystem  StarField                   Sprites
+        (pool physique) (3 couches                  ┌──────────────┐
+                         parallaxe)                 │ Player       │
+                                                    │ Laser        │
+                                                    │ EnemyBase    │
+                                                    │  ├ Basic     │
+                                                    │  ├ Zigzag    │
+                                                    │  ├ Shooter   │
+                                                    │  └ Boss      │
+                                                    │ PowerUp      │
+                                                    └──────────────┘
+```
+
+**1 173 lignes · 15 classes · Glow `BLEND_ADD` · Screen-shake · Combo x1–x8**
+
+[![Voir le repo](https://img.shields.io/badge/GitHub-stellar--assault-181717?style=for-the-badge&logo=github)](https://github.com/KoceilaBRAIKI/stellar-assault-Python-Pygame-)
+
+<br/>
+
+---
+
+### ⚔️ Darkest Dungeon — RPG en C
+> **L2 Informatique · 2024-2025** &nbsp;·&nbsp; `C` `Structures de données` `Fichiers`
+
+RPG tactique au tour par tour en ligne de commande, inspiré de Darkest Dungeon, entièrement en C avec gestion mémoire manuelle.
+
+**Structures de données utilisées :**
+- **Listes chaînées dynamiques** — personnages, ennemis, accessoires
+- **Queue FIFO** — Sanitarium (soins HP) et Taverne (réduction stress)
+- **Fichier texte** — sauvegarde et chargement complet de l'état du jeu
+
+4 classes de héros · 10 ennemis de difficulté croissante · boutique · récompenses aléatoires · **zéro fuite mémoire**
+
+[![Voir le repo](https://img.shields.io/badge/GitHub-darkest--dungeon--c-181717?style=for-the-badge&logo=github)](https://github.com/KoceilaBRAIKI/darkest-dungeon-c)
+
+<br/>
+
+---
+
+## 📊 &nbsp;Statistiques GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KoceilaBRAIKI&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 &nbsp;Formation
+
+<div align="center">
+
+| Année | Diplôme | Établissement | Matières clés |
+|-------|---------|---------------|---------------|
+| 2025 – 2026 | **L3 Informatique** | Université Gustave Eiffel — IGM | Compilation · Réseaux · Systèmes · BDD avancées · POO |
+| 2024 – 2025 | **L2 Informatique** | Université Gustave Eiffel | Algo · C · Java · Architecture machine · Structures de données |
+
+</div>
+
+<br/>
+
+---
+
+## 📬 &nbsp;Me contacter
+
+<div align="center">
+
+Je suis disponible pour discuter d'une **alternance** à partir de **septembre 2026**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Discutons-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-braiki)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-braiki.koceila%40outlook.fr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:braiki.koceila@outlook.fr)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=KoceilaBRAIKI&color=0d1117&style=for-the-badge&label=Vues+du+profil" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer" />
+</div>
