@@ -131,26 +131,15 @@ Jeu de rôle en ligne de commande avec combats au tour par tour, gestion du stre
 
 <br/>
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0d0d1a&title_color=8b8bcc&icon_color=8b8bcc"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KoceilaBRAIKI&theme=tokyonight&hide_border=true&background=0d0d1a&ring=8b8bcc&fire=a855f7&currStreakLabel=8b8bcc"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
 
 **Disponible pour une alternance à partir de septembre 2026**
 
 [braiki.koceila@outlook.fr](mailto:braiki.koceila@outlook.fr) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/koceila-braiki) &nbsp;·&nbsp; Paris
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=KoceilaBRAIKI&style=for-the-badge&color=8b8bcc&label=Visiteurs)
 
 <br/>
 
