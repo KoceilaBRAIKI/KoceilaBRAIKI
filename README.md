@@ -171,7 +171,7 @@ Je code en **C, Python, Java et Haskell**, je conçois des bases de données rel
       Compression par arbre de <b>Huffman</b> en C pur. Gestion manuelle de la mémoire et analyse de complexité.
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Trilogie de Jeux</h3>
+      <h3><a href="https://github.com/KoceilaBRAIKI/stellar-assault" style="color: inherit; text-decoration: none;">🎮 Trilogie de Jeux (Stellar Assault)</a></h3>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
