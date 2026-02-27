@@ -1,71 +1,42 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Koceila%20Braiki&fontSize=50&fontColor=fff&fontAlignY=38&desc=Développeur%20·%20L3%20Informatique%20·%20Gustave%20Eiffel&descSize=16&descColor=ffffffaa&descAlignY=58" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:0d0d1a&height=300&section=header&text=Koceila%20Braiki&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=L3%20Informatique%20%E2%80%A2%20IGM%20Gustave%20Eiffel%20%E2%80%A2%20Paris&descSize=18&descColor=9b8ec4&descAlignY=63&animation=fadeIn&stroke=6366f1&strokeWidth=2" />
-
-</div>
+<br/>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-braiki)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:braiki.koceila@outlook.fr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiki.koceila@outlook.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoceilaBRAIKI)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=KoceilaBRAIKI&style=flat-square&color=6366f1&label=Vues)
-&nbsp;
-![Alternance](https://img.shields.io/badge/🎯_Alternance-Septembre_2026-6366f1?style=flat-square)
-
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=9b8ec4&center=true&vCenter=true&width=600&lines=Compilation+%E2%80%A2+Syst%C3%A8mes+%E2%80%A2+Web+Full-Stack;C+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+Haskell+%E2%80%A2+SQL;En+recherche+d%27alternance+%E2%80%94+Septembre+2026" />
-</div>
-
-<br/><br/>
-
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d0d1a" width="38%"/>
-
-### `$ whoami`
-
-Étudiant en **L3 Informatique** à l'IGM,\
-je code du bas niveau au web :
-
-- 🔧 Compilateur **Flex/Bison/AST** from scratch
-- 🗜️ Codec de compression **lossless −47%**
-- 🌐 Web **Flask + PostgreSQL** multi-rôles
-- 🎮 Jeux en **C**, **Python** et **Java**
-
-Curieux des fondamentaux, attentif\
-à la qualité du code.
 
 <br/>
 
 ---
 
+## 👋 &nbsp;Qui suis-je ?
+
+Je suis étudiant en **3ème année d'informatique** à l'Université Gustave Eiffel (Paris).
+Je développe des applications allant de la **programmation bas niveau** jusqu'aux **sites web complets**.
+
+🎯 &nbsp;Je recherche une **alternance à partir de septembre 2026** pour préparer un Master.
+
 <br/>
 
-### Langages & Stack
+---
+
+## 🧰 &nbsp;Ce que je sais faire
+
+<br/>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM-6E4C13?style=for-the-badge)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flex](https://img.shields.io/badge/Flex%20%2F%20Bison-E34F26?style=for-the-badge)
+| Catégorie | Technologies |
+|:---------:|:------------:|
+| **Langages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
+| **Web** | ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
@@ -73,42 +44,51 @@ Curieux des fondamentaux, attentif\
 
 ---
 
-### Projets
+## 🚀 &nbsp;Mes projets
 
 <br/>
 
-<a href="https://github.com/KoceilaBRAIKI/tpas-C-Flex-Bison-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KoceilaBRAIKI&repo=tpas-C-Flex-Bison-&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b8ec4&icon_color=6366f1" />
-</a>
-<a href="https://github.com/KoceilaBRAIKI/codec-dif">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KoceilaBRAIKI&repo=codec-dif&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b8ec4&icon_color=6366f1" />
-</a>
-
-<a href="https://github.com/KoceilaBRAIKI/backpack-hero-java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KoceilaBRAIKI&repo=backpack-hero-java&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b8ec4&icon_color=6366f1" />
-</a>
-<a href="https://github.com/KoceilaBRAIKI/stellar-assault-Python-Pygame-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KoceilaBRAIKI&repo=stellar-assault-Python-Pygame-&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b8ec4&icon_color=6366f1" />
-</a>
-
-<a href="https://github.com/KoceilaBRAIKI/darkest-dungeon-c">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KoceilaBRAIKI&repo=darkest-dungeon-c&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b8ec4&icon_color=6366f1" />
-</a>
+### ⚙️ Compilateur TPC &nbsp;·&nbsp; `C`
+> Création d'un outil capable de lire et comprendre du code source, de détecter les erreurs et d'afficher la structure du programme sous forme d'arbre.
 
 <br/>
 
-> 💡 Chaque projet a son propre README détaillé avec architecture, installation et captures d'écran.
+### 🗜️ CoDec DIF &nbsp;·&nbsp; `C`
+> Outil de compression d'images développé entièrement from scratch. Réduit le poids des fichiers images de **47%** sans aucune perte de qualité.
+
+<br/>
+
+### 🛒 TrouveCompo &nbsp;·&nbsp; `Python · Flask · PostgreSQL`
+> Site web complet de vente de composants électroniques. Trois types d'utilisateurs : client, employé et gérant — chacun avec son propre espace.
+
+<br/>
+
+### 🎒 BackpackHero &nbsp;·&nbsp; `Java`
+> Jeu de rôle au tour par tour avec un système d'inventaire en grille original. Les objets ont des formes différentes et interagissent entre eux selon leur placement.
+
+<br/>
+
+### 🚀 Stellar Assault &nbsp;·&nbsp; `Python · Pygame`
+> Jeu de tir spatial 2D conçu sans aucun élément graphique importé — tout est généré par le code. Effets visuels, ennemis, boss, système de score.
+
+<br/>
+
+### ⚔️ Darkest Dungeon &nbsp;·&nbsp; `C`
+> Jeu de rôle en ligne de commande inspiré de Darkest Dungeon. Gestion complète des personnages, combats, boutique et sauvegarde de partie.
 
 <br/>
 
 ---
 
-### Stats
+## 📊 &nbsp;Statistiques
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9b8ec4&icon_color=6366f1&text_color=c9d1d9&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KoceilaBRAIKI&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6366f1&fire=a855f7&currStreakLabel=9b8ec4" width="49%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide_title=false&custom_title=Activité+GitHub" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Langages+utilisés" />
 
 </div>
 
@@ -118,12 +98,12 @@ Curieux des fondamentaux, attentif\
 
 <div align="center">
 
-### 🎯 Disponible pour une alternance · Septembre 2026
+### 📬 &nbsp;Disponible pour une alternance · Septembre 2026
 
-**`braiki.koceila@outlook.fr`** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/koceila-braiki) &nbsp;·&nbsp; Paris
+**braiki.koceila@outlook.fr** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/koceila-braiki) &nbsp;·&nbsp; Paris
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:0d0d1a&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" />
 
 </div>
