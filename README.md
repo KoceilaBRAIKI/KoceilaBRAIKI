@@ -67,6 +67,8 @@ Je cherche une **alternance à partir de septembre 2026** pour préparer un Mast
 
 Un outil qui lit du code source, vérifie s'il est correct et affiche sa structure sous forme d'arbre. Détecte les erreurs avec leur numéro de ligne et colonne exact.
 
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/tpas-C-Flex-Bison-)
+
 </td>
 <td width="50%" valign="top">
 
@@ -74,6 +76,8 @@ Un outil qui lit du code source, vérifie s'il est correct et affiche sa structu
 `C`
 
 Réduit le poids des fichiers images de **47%** sans perte de qualité. Développé entièrement from scratch avec un algorithme d'encodage sur mesure.
+
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/codec-dif)
 
 </td>
 </tr>
@@ -86,7 +90,7 @@ Réduit le poids des fichiers images de **47%** sans perte de qualité. Dévelop
 
 Plateforme web complète de vente de composants électroniques. Trois espaces distincts : **client**, **employé** et **gérant**, chacun avec ses propres fonctionnalités.
 
-[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI)
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/TrouveCompo-Flask-HTML-PostgreSQL)
 
 </td>
 <td width="50%" valign="top">
