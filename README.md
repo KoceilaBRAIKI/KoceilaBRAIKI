@@ -1,12 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Koceila%20Braiki&fontSize=50&fontColor=fff&fontAlignY=38&desc=Développeur%20·%20L3%20Informatique%20·%20Gustave%20Eiffel&descSize=16&descColor=ffffffaa&descAlignY=58" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,25:111128,75:1a1040,100:0a0a14&height=260&section=header&text=Koceila%20Braiki&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=Étudiant%20en%20informatique%20%E2%80%94%20Université%20Gustave%20Eiffel%2C%20Paris&descSize=17&descColor=8b8bcc&descAlignY=62&animation=fadeIn"/>
 
 <br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koceila-braiki)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiki.koceila@outlook.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoceilaBRAIKI)
+[![Email](https://img.shields.io/badge/braiki.koceila%40outlook.fr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:braiki.koceila@outlook.fr)
+[![GitHub](https://img.shields.io/badge/KoceilaBRAIKI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KoceilaBRAIKI)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B8BCC&center=true&vCenter=true&width=500&lines=Développement+web+full-stack;Applications+systèmes+en+C;Jeux+en+Python+%26+Java;En+recherche+d'alternance+—+Sept.+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,29 +18,33 @@
 
 ---
 
-## 👋 &nbsp;Qui suis-je ?
-
-Je suis étudiant en **3ème année d'informatique** à l'Université Gustave Eiffel (Paris).
-Je développe des applications allant de la **programmation bas niveau** jusqu'aux **sites web complets**.
-
-🎯 &nbsp;Je recherche une **alternance à partir de septembre 2026** pour préparer un Master.
-
 <br/>
+
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d0d1a&title_color=8b8bcc&text_color=c9d1d9"/>
+
+### 👋 Bonjour !
+
+Je suis en **3ème année d'informatique** à l'IGM (Gustave Eiffel).
+
+En trois ans, j'ai développé des projets variés : un **site web e-commerce complet**, un **outil de compression d'images**, un **analyseur de code**, et **trois jeux vidéo** dans trois langages différents.
+
+Je cherche une **alternance à partir de septembre 2026** pour préparer un Master en informatique.
+
+📍 Paris &nbsp;·&nbsp; 🎓 L3 Informatique &nbsp;·&nbsp; 🎯 Alternance sept. 2026
+
+<br/><br/><br/><br/><br/>
 
 ---
 
-## 🧰 &nbsp;Ce que je sais faire
-
 <br/>
+
+## 🛠️ Compétences
 
 <div align="center">
 
-| Catégorie | Technologies |
-|:---------:|:------------:|
-| **Langages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
-| **Web** | ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| 💻 Langages | 🌐 Web & BDD | ⚙️ Systèmes & Outils |
+|:-----------:|:------------:|:--------------------:|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Flex](https://img.shields.io/badge/Flex%2FBison-E34F26?style=flat-square) ![NASM](https://img.shields.io/badge/NASM-6E4C13?style=flat-square) |
 
 </div>
 
@@ -44,51 +52,91 @@ Je développe des applications allant de la **programmation bas niveau** jusqu'a
 
 ---
 
-## 🚀 &nbsp;Mes projets
+<br/>
+
+## 🚀 Projets
 
 <br/>
 
-### ⚙️ Compilateur TPC &nbsp;·&nbsp; `C`
-> Création d'un outil capable de lire et comprendre du code source, de détecter les erreurs et d'afficher la structure du programme sous forme d'arbre.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### ⚙️ Analyseur de code
+`C` · `Flex` · `Bison`
 
-### 🗜️ CoDec DIF &nbsp;·&nbsp; `C`
-> Outil de compression d'images développé entièrement from scratch. Réduit le poids des fichiers images de **47%** sans aucune perte de qualité.
+Un outil qui lit du code source, vérifie s'il est correct et affiche sa structure sous forme d'arbre. Détecte les erreurs avec leur numéro de ligne et colonne exact.
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-### 🛒 TrouveCompo &nbsp;·&nbsp; `Python · Flask · PostgreSQL`
-> Site web complet de vente de composants électroniques. Trois types d'utilisateurs : client, employé et gérant — chacun avec son propre espace.
+### 🗜️ Compresseur d'images
+`C`
 
-<br/>
+Réduit le poids des fichiers images de **47%** sans perte de qualité. Développé entièrement from scratch avec un algorithme d'encodage sur mesure.
 
-### 🎒 BackpackHero &nbsp;·&nbsp; `Java`
-> Jeu de rôle au tour par tour avec un système d'inventaire en grille original. Les objets ont des formes différentes et interagissent entre eux selon leur placement.
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🛒 TrouveCompo — Site e-commerce
+`Python` · `Flask` · `PostgreSQL`
 
-### 🚀 Stellar Assault &nbsp;·&nbsp; `Python · Pygame`
-> Jeu de tir spatial 2D conçu sans aucun élément graphique importé — tout est généré par le code. Effets visuels, ennemis, boss, système de score.
+Plateforme web complète de vente de composants électroniques. Trois espaces distincts : **client**, **employé** et **gérant**, chacun avec ses propres fonctionnalités.
 
-<br/>
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI)
 
-### ⚔️ Darkest Dungeon &nbsp;·&nbsp; `C`
-> Jeu de rôle en ligne de commande inspiré de Darkest Dungeon. Gestion complète des personnages, combats, boutique et sauvegarde de partie.
+</td>
+<td width="50%" valign="top">
+
+### 🎒 BackpackHero — Jeu de rôle
+`Java`
+
+RPG au tour par tour où les objets s'organisent dans un sac en grille. Leur position influence leurs effets en combat. Architecture complète MVC.
+
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/backpack-hero-java)
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Stellar Assault — Jeu de tir
+`Python` · `Pygame`
+
+Jeu de tir spatial 2D avec effets visuels, ennemis, boss et système de score. Aucun asset graphique importé — tout est généré par le code.
+
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/stellar-assault-Python-Pygame-)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ Darkest Dungeon — Jeu RPG
+`C`
+
+Jeu de rôle en ligne de commande avec combats au tour par tour, gestion du stress des personnages, boutique et sauvegarde automatique.
+
+[![Voir](https://img.shields.io/badge/Voir%20le%20projet-181717?style=flat-square&logo=github)](https://github.com/KoceilaBRAIKI/darkest-dungeon-c)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
 
-## 📊 &nbsp;Statistiques
-
 <br/>
+
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide_title=false&custom_title=Activité+GitHub" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Langages+utilisés" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KoceilaBRAIKI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0d0d1a&title_color=8b8bcc&icon_color=8b8bcc"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=KoceilaBRAIKI&theme=tokyonight&hide_border=true&background=0d0d1a&ring=8b8bcc&fire=a855f7&currStreakLabel=8b8bcc"/>
 
 </div>
 
@@ -96,14 +144,16 @@ Je développe des applications allant de la **programmation bas niveau** jusqu'a
 
 ---
 
+<br/>
+
 <div align="center">
 
-### 📬 &nbsp;Disponible pour une alternance · Septembre 2026
+**Disponible pour une alternance à partir de septembre 2026**
 
-**braiki.koceila@outlook.fr** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/koceila-braiki) &nbsp;·&nbsp; Paris
+[braiki.koceila@outlook.fr](mailto:braiki.koceila@outlook.fr) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/koceila-braiki) &nbsp;·&nbsp; Paris
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,25:111128,75:1a1040,100:0a0a14&height=120&section=footer"/>
 
 </div>
