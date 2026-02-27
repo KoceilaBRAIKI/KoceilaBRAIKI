@@ -149,34 +149,42 @@ Je code en **C, Python, Java et Haskell**, je conçois des bases de données rel
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Magasin en Ligne — Full-Stack</h3>
+      <h3><a href="https://github.com/KoceilaBRAIKI/ecommerce-flask" style="color: inherit; text-decoration: none;">🛒 E-commerce Full-Stack</a></h3>
       <img src="https://img.shields.io/badge/Python-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br/><br/>
       Application e-commerce complète en architecture <b>3 tiers</b>. Gestion des utilisateurs, catalogue produits, commandes. Requêtes SQL optimisées avec <code>psycopg</code>.
+      <br/><br/>
+      <a href="https://github.com/KoceilaBRAIKI/ecommerce-flask"><b>🔗 Voir le projet</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Compilateur & Assembleur</h3>
+      <h3><a href="https://github.com/KoceilaBRAIKI/tpcas" style="color: inherit; text-decoration: none;">⚙️ Compiler Front-End (tpcas)</a></h3>
       <img src="https://img.shields.io/badge/C-Flex-E34F26?style=flat-square" />
       <img src="https://img.shields.io/badge/Bison-NASM-6E4C13?style=flat-square" />
       <br/><br/>
-      Chaîne de compilation <b>from scratch</b> : analyse lexicale, syntaxique, AST, génération de code NASM.
+      Frontend de compilation <b>from scratch</b> : analyse lexicale, syntaxique, construction d'AST et génération de code NASM.
+      <br/><br/>
+      <a href="https://github.com/KoceilaBRAIKI/tpcas"><b>🔗 Voir le code</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗜️ Compresseur d'Images</h3>
+      <h3><a href="https://github.com/KoceilaBRAIKI/codec-dif" style="color: inherit; text-decoration: none;">🗜️ Compresseur d'Images (CoDec)</a></h3>
       <img src="https://img.shields.io/badge/C-Algorithmique-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       <br/><br/>
-      Compression par arbre de <b>Huffman</b> en C pur. Gestion manuelle de la mémoire et analyse de complexité.
+      Format de compression <b>propriétaire (.dif)</b>. Codage différentiel et entropique (préfixes variables). Gestion mémoire stricte sans fuite.
+      <br/><br/>
+      <a href="https://github.com/KoceilaBRAIKI/codec-dif"><b>🔗 Voir le code</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/KoceilaBRAIKI/stellar-assault" style="color: inherit; text-decoration: none;">🎮 Trilogie de Jeux (Stellar Assault)</a></h3>
+      <h3><a href="https://github.com/KoceilaBRAIKI/stellar-assault" style="color: inherit; text-decoration: none;">🎮 Trilogie de Jeux (POO & Sys)</a></h3>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <br/><br/>
-      Trois jeux, trois paradigmes : <b>C</b> (système), <b>Python</b> (scripting), <b>Java</b> (POO complète).
+      Trois jeux, trois paradigmes : <b>C</b> (Darkest Dungeon), <b>Python</b> (Stellar Assault), <b>Java</b> (Backpack Hero).
+      <br/><br/>
+      <a href="https://github.com/KoceilaBRAIKI/stellar-assault"><b>🔗 Voir Stellar Assault</b></a>
     </td>
   </tr>
 </table>
