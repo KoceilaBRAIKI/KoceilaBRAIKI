@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B8BCC&center=true&vCenter=true&width=500&lines=Développement+web+full-stack;Applications+systèmes+en+C;Jeux+en+Python+%26+Java;En+recherche+d'alternance+—+Sept.+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=8B8BCC&center=true&vCenter=true&width=500&lines=C+·+Python+·+Java+·+Haskell;Sites+web+·+Jeux+·+Outils+systèmes;Alternance+recherchée+—+Septembre+2026)](https://git.io/typing-svg)
 
 </div>
 
