@@ -20,7 +20,7 @@
 
 <br/>
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d0d1a&title_color=8b8bcc&text_color=c9d1d9"/>
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoceilaBRAIKI&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d0d1a&title_color=8b8bcc&text_color=c9d1d9&v=1"/>
 
 ### 👋 Bonjour !
 
